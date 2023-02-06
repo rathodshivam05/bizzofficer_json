@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "caseNumber": 23234,
+      "title": "subject 66",
+      "product": "noselect",
+      "subStatus": "In Process",
+      "status": "Open",
+      "technician": "null",
+      "technicianStatus": "New"
+    },
+    {
+      "id": 2,
+      "caseNumber": 11232,
+      "title": "Replacement",
+      "product": "noselect",
+      "subStatus": "New",
+      "status": "Open",
+      "technician": "",
+      "technicianStatus": ""
+    },
+    {
+      "id": 3,
+      "caseNumber": 23212,
+      "title": "Replacement",
+      "product": "Air Conditioner",
+      "subStatus": "Cancelled",
+      "status": "Closed",
+      "technician": "",
+      "technicianStatus": ""
+    },
+    {
+      "id": 4,
+      "caseNumber": 11221,
+      "title": "Replacement",
+      "product": "noselect",
+      "subStatus": "Cancelled",
+      "status": "Closed",
+      "technician": "Bhavik Piwania",
+      "technicianStatus": "New"
+    },
+    {
+      "id": 5,
+      "caseNumber": 33213,
+      "title": "ncidence",
+      "product": "Air Conditioner",
+      "subStatus": "Cancelled",
+      "status": "Closed",
+      "technician": "Mohan Malhotra",
+      "technicianStatus": "Appoinment Fixed"
+    },
+    {
+      "id": 6,
+      "caseNumber": 21233,
+      "title": "Installation",
+      "product": "Cooking Range",
+      "subStatus": "New",
+      "status": "Resolved",
+      "technician": "Bhavik Piwania",
+      "technicianStatus": "New"
+    },
+    {
+      "id": 7,
+      "caseNumber": 11233,
+      "title": "Installation",
+      "product": "Used TV",
+      "subStatus": "Completed",
+      "status": "Resolved",
+      "technician": "Mohan Malhotra",
+      "technicianStatus": "Site Not Ready"
+    },
+    {
+      "id": 8,
+      "caseNumber": 45632,
+      "title": "Repair",
+      "product": "Sofa Set",
+      "subStatus": "Completed",
+      "status": "Open",
+      "technician": "Bhavik Piwania",
+      "technicianStatus": "undefined"
+    },
+    {
+      "id": 9,
+      "caseNumber": 22341,
+      "title": "Repair",
+      "product": "Air Cooler",
+      "subStatus": "New",
+      "status": "Open",
+      "technician": "Bhavik Piwania",
+      "technicianStatus": "New"
+    }
+  ]
+}
