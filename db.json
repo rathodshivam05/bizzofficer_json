@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "caseNumber": 23234,
+      "caseNumber": "23234",
       "title": "subject 66",
       "product": "noselect",
       "subStatus": "In Process",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "caseNumber": 11232,
+      "caseNumber": "11232",
       "title": "Replacement",
       "product": "noselect",
       "subStatus": "New",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "caseNumber": 23212,
+      "caseNumber": "23212",
       "title": "Replacement",
       "product": "Air Conditioner",
       "subStatus": "Cancelled",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "caseNumber": 11221,
+      "caseNumber": "11221",
       "title": "Replacement",
       "product": "noselect",
       "subStatus": "Cancelled",
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "caseNumber": 33213,
+      "caseNumber": "33213",
       "title": "ncidence",
       "product": "Air Conditioner",
       "subStatus": "Cancelled",
@@ -52,7 +52,7 @@
     },
     {
       "id": 6,
-      "caseNumber": 21233,
+      "caseNumber": "21233",
       "title": "Installation",
       "product": "Cooking Range",
       "subStatus": "New",
@@ -62,7 +62,7 @@
     },
     {
       "id": 7,
-      "caseNumber": 11233,
+      "caseNumber": "11233",
       "title": "Installation",
       "product": "Used TV",
       "subStatus": "Completed",
@@ -72,7 +72,7 @@
     },
     {
       "id": 8,
-      "caseNumber": 45632,
+      "caseNumber": "45632",
       "title": "Repair",
       "product": "Sofa Set",
       "subStatus": "Completed",
@@ -82,7 +82,7 @@
     },
     {
       "id": 9,
-      "caseNumber": 22341,
+      "caseNumber": "22341",
       "title": "Repair",
       "product": "Air Cooler",
       "subStatus": "New",
